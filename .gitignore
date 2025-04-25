@@ -2,3 +2,4 @@
 .DS_Store
 part_2_selection_sort/.ipynb_checkpoints/Grokking_Algorithms_Selection_Sort-checkpoint.ipynb
 part_2_3_selection_sort_recursion/.ipynb_checkpoints/Grokking_Algorithms_Selection_Sort-checkpoint.ipynb
+.venv
